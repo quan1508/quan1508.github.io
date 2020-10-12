@@ -1,0 +1,15 @@
+*{
+    box-sizing: inherit;
+}
+html {
+    background-color: #A897FB;
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+}
+.grid {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+

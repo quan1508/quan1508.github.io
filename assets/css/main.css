@@ -1,0 +1,33 @@
+.card {
+    width: 277px;
+    height: 172px;
+    color: #fff;
+    background-color: #582CC7;
+    padding: 18px 0px 0px 25px;
+    box-sizing: border-box;
+    margin-left: 20.6%;
+    margin-top: 12.5%; 
+    border-radius: 8px;
+    line-height: 1.5;
+}
+.card-text {
+    font-size: 11px;
+    line-height: 1.5;
+}
+.btn-card {
+    color: #fff;
+    background-color: #673ab7;
+    font-size: 10px;
+    border-radius: 4px;
+}
+.close {
+    position: absolute;
+    display: block;
+    content: ' ';
+    background-color:  #582CC7;
+    color: silver;
+    top: 29%;
+    left: 39%;
+    font-size: 20px;
+}
+
